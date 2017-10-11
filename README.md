@@ -1,5 +1,5 @@
 # Sinatra Yield Readme
-
+++++
 ## Objectives
 
 1. Explain what a `yield` statement in `layout.erb` does and why we use it
@@ -31,7 +31,7 @@ Below is the HTML for a website that has a header and links to JavaScript files.
 
 
 
-    </div>
+    </div>+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   </body>
